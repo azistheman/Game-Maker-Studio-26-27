@@ -1,0 +1,1 @@
+effect_create_above(ef_explosion, x, y, 150, c_white);
